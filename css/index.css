@@ -1,0 +1,52 @@
+.background-login{
+  background-image: url("../images/one.png"), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+  background-blend-mode: overlay;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+.logo img{
+  width:190px;
+  height:90px;
+
+
+}
+
+.logo {
+  text-align: center;
+  padding-top: 60px;
+}
+
+
+.login-form{
+opacity: 0.7;
+background-color:white;
+top: 25%;
+left: 37%;
+position: absolute;
+padding:5% 5%;
+height:50%;
+max-width: 100%;
+border-radius: 5%;
+}
+
+.login-form h2{
+  margin-bottom:30px;
+  text-align: center;
+}
+
+.login-btn{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.inputs{
+  margin-bottom: 10px;
+}
+
+.signup-link{
+  margin-top:10px;
+  text-align: center;
+}
